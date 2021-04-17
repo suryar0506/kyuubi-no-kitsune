@@ -29,3 +29,9 @@ span
 label{
   color: green;
 }
+
+.heading{
+letter-spacing: 10px;
+font-size: 18px;
+border-radius: 10px;
+}
