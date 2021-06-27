@@ -7,7 +7,7 @@ span
 {
   font-size: 30px;
 }
-#camera , #result
+#camera 
 {
   border: 2px dashed black;
   width: 350px;
@@ -35,3 +35,15 @@ letter-spacing: 10px;
 font-size: 18px;
 border-radius: 10px;
 }
+
+ #result{
+  border: 2px solid black;;
+   width: 300px;
+   height:300px;
+ }
+
+ #captured_image{
+  width: 295px;
+  height:285px;
+  padding-top: 15px;
+ }
